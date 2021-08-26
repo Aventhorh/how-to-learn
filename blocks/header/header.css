@@ -1,0 +1,75 @@
+  .header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    background-color: #f2f2f2;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .header-back{
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .logo_place_header{
+    width: 183px;
+    height: 32px;
+    position: absolute;
+    top: 30px;
+    left: 64px;
+    background-size: cover;
+  }
+  
+  .title{
+    width: 730px;
+    position: absolute;
+    left: 64px;
+  }
+  
+  .title-txt{
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: bold;
+  }
+  
+  .subtitle{
+    width: 388px;
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+  }
+  
+  .subtitle-txt{
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+  }
+  
+  .main-illustration{
+    width: 765px;
+    height: 608px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  
+  .two_again{
+      width: 765px;
+      height: 608px;
+      background-size: cover;
+  }
+  
+  .square-pic{
+    width: 568px;
+    height: 568px;
+    position: absolute;
+    right: 0;
+    top: 64px;
+    background-color: #2f80ed;
+    animation: rotation 20s linear infinite;
+  }

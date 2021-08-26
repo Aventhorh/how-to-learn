@@ -1,0 +1,56 @@
+.section-title{
+    width: 60%;
+    display: flex;
+    margin: auto;
+    margin-bottom: 20px;
+    justify-content: center;
+    height: auto;
+    margin-top: 90px;
+  }
+  
+  .section-subtitle{
+    width: 60%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+  }
+  
+  .section-title-txt{
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: bold;
+    z-index: 1;
+  }
+  
+  .section-subtitle-txt{
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    z-index: 1;
+  }
+  
+  .digits{
+    margin: auto;
+  }
+  
+  .table{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-bottom: 90px;
+    z-index: 1;
+  }
+  
+  .table-cell{
+    width: 250px;
+    display: inline-block;
+    margin-top: 60px;
+  }
+
+  .table-text{
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+  }
