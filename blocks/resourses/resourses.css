@@ -1,16 +1,2 @@
-  .resources-logo-zone{
-    width: 1100px;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin: auto;
-    margin-top: 80px;
-    margin-bottom: 217px;
-  }
-  
-  .resources-logo{
-    width: 270px;
-    height: 38px;
-    background: center no-repeat;
-    background-size: contain;
-  }
+@import url('__logo/resources__logo.css');
+@import url('__logo-zone/resources__logo-zone.css');

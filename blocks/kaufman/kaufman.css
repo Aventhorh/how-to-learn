@@ -1,9 +1,5 @@
-  .table-cell-dark{
-    width: 200px;
-    display: inline-block;
-    margin-top: 60px;
-    z-index: 1;
-  }
+@import url('__triangle/kaufman__triangle.css');
+@import url('table/__cell/_theme_dark/table__cell_theme_dark.css');
   
   .kaufman{
     margin: auto;
@@ -15,10 +11,3 @@
     z-index: 1;
   }
 
-  .kaufman-triangle{
-    background-image: url(../images/triangle.svg);
-    position: absolute;
-    right: -210px;
-    top: 0;
-    animation: rotation 20s linear infinite;
-  }
