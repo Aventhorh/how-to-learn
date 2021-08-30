@@ -1,0 +1,8 @@
+.oakley__two-columns{
+    width: 100%;
+    min-width: 784px;
+    display: flex;
+    margin: auto;
+    background-color: #f2f2f2;
+    padding-top: 60px;
+  }

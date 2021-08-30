@@ -1,0 +1,8 @@
+.cards__item{
+    width: 250px;
+    margin-top: 60px;
+    margin-right: 79px;
+    display: grid;
+  }.cards__item:nth-child(3n){
+    margin-right: 0;
+  }
