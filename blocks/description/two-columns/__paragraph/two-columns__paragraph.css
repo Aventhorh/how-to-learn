@@ -2,3 +2,8 @@
     margin-top: 0; 
     margin-bottom: 30px;
   }
+
+.two-columns__paragraph:nth-child(3n){
+  margin: 0;
+}
+

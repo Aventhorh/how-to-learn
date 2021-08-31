@@ -4,6 +4,13 @@
     font-size: 18px;
     font-weight: normal;
     text-decoration: none;
-  }.footer__column-link:hover{
-    color: rgb(180, 180, 180);
+    margin-bottom: 10px;
   }
+
+.footer__column-link:nth-child(3n){
+  margin-bottom: 0;
+}
+
+.footer__column-link:hover{
+  color: rgb(180, 180, 180);
+}
