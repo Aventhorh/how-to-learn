@@ -8,8 +8,10 @@
     font-weight: normal;
     color: #2f80ed;
     text-decoration: none;
+    cursor: pointer;
   }
   
   .two-columns__brief:hover {
-    color: #2f81ed52;
+    opacity: .3;
+    transition: .3s;
   }

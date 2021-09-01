@@ -12,5 +12,6 @@
 }
 
 .footer__column-link:hover{
-  color: rgb(180, 180, 180);
+  opacity: .3;
+  transition: .3s;
 }
